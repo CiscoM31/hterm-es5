@@ -1,0 +1,18 @@
+{
+  "name": "hterm-m31",
+  "description": "hterm built and bundled for IE11",
+  "main": "dist/hterm.min.js",
+  "authors": [
+    "Ilya Puzanov <ilpuzano@cisco.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/CiscoM31/hterm-m31",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
