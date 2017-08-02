@@ -1,5 +1,5 @@
 {
-  "name": "hterm-m31",
+  "name": "hterm-es5",
   "description": "hterm built and bundled for IE11",
   "main": "dist/hterm.min.js",
   "authors": [

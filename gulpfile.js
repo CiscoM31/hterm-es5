@@ -10,7 +10,7 @@ gulp.task('default', function() {
       presets: ['es2015'],
       plugins: ['transform-object-assign'],
     }))
-    .pipe($.uglify())
+    // .pipe($.uglify())
     .pipe($.concat('hterm.min.js'))
     .pipe(gulp.dest('dist'));
 });

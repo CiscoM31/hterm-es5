@@ -1,5 +1,5 @@
 {
-  "name": "hterm-m31",
+  "name": "hterm-es5",
   "version": "1.0.0",
   "description": "hterm built and bundled for IE11",
   "main": "dist/hterm.min.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CiscoM31/hterm-m31.git"
+    "url": "git+https://github.com/CiscoM31/hterm-es5.git"
   },
   "author": "Ilya Puzanov <ilpuzano@cisco.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CiscoM31/hterm-m31/issues"
+    "url": "https://github.com/CiscoM31/hterm-es5/issues"
   },
-  "homepage": "https://github.com/CiscoM31/hterm-m31#readme",
+  "homepage": "https://github.com/CiscoM31/hterm-es5#readme",
   "dependencies": {
     "babel-plugin-transform-es2015-shorthand-properties": "^6.22.0",
     "babel-plugin-transform-object-assign": "^6.22.0",
@@ -23,6 +23,7 @@
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.1",
     "gulp-concat": "^2.6.1",
+    "gulp-load-plugins": "^1.5.0",
     "gulp-uglify": "^1.2.0"
   }
 }

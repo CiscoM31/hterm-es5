@@ -1,4 +1,4 @@
-# HTERM-M31
+# HTERM-ES5
 
 To rebuild the hterm, follow this guide 
 
