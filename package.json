@@ -1,6 +1,6 @@
 {
   "name": "hterm-es5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hterm built and bundled for IE11",
   "main": "dist/hterm.min.js",
   "scripts": {
