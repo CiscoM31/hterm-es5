@@ -16,6 +16,7 @@
     "url": "https://github.com/CiscoM31/hterm-es5/issues"
   },
   "homepage": "https://github.com/CiscoM31/hterm-es5#readme",
+  "dependencies": {},
   "devDependencies": {
     "babel-plugin-transform-es2015-shorthand-properties": "^6.22.0",
     "babel-plugin-transform-object-assign": "^6.22.0",
